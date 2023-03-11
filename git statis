@@ -1,0 +1,41 @@
+[33mcommit 0800104b0e6ddaed0d7e30c798c087d40a042241[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <savin.stanislav@gmail.com>
+Date:   Sat Mar 11 17:52:42 2023 +0300
+
+    test2.txt was modified
+
+[33mcommit 3e3811da0be8ef24a38553741b624294e5df3f68[m
+Author: unknown <savin.stanislav@gmail.com>
+Date:   Sat Mar 11 17:51:03 2023 +0300
+
+    A new test file added
+
+[33mcommit 2bae17ab7e6524d4e186508e7ede3b945fce748a[m
+Author: unknown <savin.stanislav@gmail.com>
+Date:   Sat Mar 11 17:48:51 2023 +0300
+
+    A test file has been removed
+
+[33mcommit f9696bcea97947c08619350fa5d9ff58cca24002[m
+Author: unknown <savin.stanislav@gmail.com>
+Date:   Sat Mar 11 17:42:55 2023 +0300
+
+    new changes
+
+[33mcommit 7ee5e95b7c5cb92e3256ddeee993835df60cde79[m
+Author: unknown <savin.stanislav@gmail.com>
+Date:   Sat Mar 11 17:38:48 2023 +0300
+
+    A new test file is added
+
+[33mcommit be460531f6efb783d02e100e03004da4cad7bfc6[m
+Author: unknown <savin.stanislav@gmail.com>
+Date:   Sat Mar 11 17:36:01 2023 +0300
+
+    A new file is added
+
+[33mcommit f492c5544e033203964bb68c4df84c5fd5220489[m
+Author: Stanislav <127530456+Stanislav12121@users.noreply.github.com>
+Date:   Sat Mar 11 17:04:48 2023 +0300
+
+    Initial commit
